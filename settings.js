@@ -4,23 +4,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "48459439078"
-global.ownername = "Toxxic Md"
+global.ownernomer = "254102510747"
+global.ownername = "wajacks"
 global.ytname = "Toxxic Md"
-global.socialm = "GitHub: Toxic1239"
-global.location = "Africa, Nigeria, Lagos"
+global.socialm = "GitHub: Wajackoya"
+global.location = "Africa, Kenya, Mombasa"
 
-global.ownernumber = '48459439078'  //creator number
-global.ownername = 'Toxxic Md' //owner name
+global.ownernumber = '254102510747'  //creator number
+global.ownername = 'wajacks' //owner name
 global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ZENON\n\nContact: 48459439078'
+global.author = 'ZENON\n\nContact: 254102510747'
 
 //console view/theme
 global.themeemoji = '💀'
-global.wm = "Toxxic Tech."
+global.wm = "WAJACKS"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
@@ -30,10 +30,10 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoTyping = true //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
@@ -53,13 +53,13 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This Command is for Premium Users \n Leave or Ill kill you',
-    admin: 'Fool \n This Command is for My owner only',
+    prem: 'This Command is for Premium Users \n Anguka nayo!',
+    admin: 'Fool \n This Command is for wajacks only',
     botAdmin: 'This Feature Can only be used If *Zenon Md* is Admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by wajacks only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'Task is Being Processed... ',    
+    wait: 'Task is Being Processed comrade... ',    
     error: 'An Error Occurred!',
 }
 
